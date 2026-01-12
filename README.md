@@ -4,7 +4,7 @@ This project demonstrates the design and deployment of a highly available and sc
 ---
 
 ## Solution Architecture
-
+Architecture/Cloud Architecture.png
 
 ### Architecture Flow
 User → Application Load Balancer → EC2 Auto Scaling Group → (Optional) RDS Multi-AZ
