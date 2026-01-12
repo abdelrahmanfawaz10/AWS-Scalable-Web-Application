@@ -64,7 +64,7 @@ User → Application Load Balancer → EC2 Auto Scaling Group → (Optional) RDS
 - Simulate load to test Auto Scaling behavior
 - Monitor instance health and scaling events
 
-## 📎 Screenshots
+## Screenshots
 Screenshots of ALB, ASG, and CloudWatch metrics are available in the `screenshots/` folder.
 
 ## Author
